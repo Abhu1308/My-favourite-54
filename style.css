@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+}
+
+#home {
+    background-color: aqua;
+}
+#About {
+background-color: chartreuse;
+}
+#My-favourite {
+    background-color: orange;
+}
+
+h1 {
+    color: blue;
+    text-shadow: 2px 2px #F8BBD0;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+p {
+    font-size: 18px;
+    color: purple;
+}
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    z-index: 10;
+}
+#My-favourite-books {
+    background-color:aquamarine;
+}
+#My-work {
+    background-color: blueviolet;
+}
+#My-inspiration {
+    background-color:deeppink;
+}
+#Contact {
+    background-color:blanchedalmond;
+}
